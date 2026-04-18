@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Pages 实时 RSS 测试</title>
+    <!-- 替换为你的真实 GitHub 用户名 -->
+    <link>https://github.com/liuyuqiangchn/rss_test/20260418.xml</link>
+    <description>测试通过 GitHub Pages 与 Google Hub 的无缝对接。</description>
+    
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <!-- 替换为你的真实 GitHub 用户名 -->
+    <atom:link rel="self" href="https://github.com/liuyuqiangchn/rss_test/20260418.xml" type="application/rss+xml"/>
+    
+    <lastBuildDate>Sat, 18 Apr 2026 23:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>第一条数据：GitHub 建立连接</title>
+      <link>http://example.com/github-article-1</link>
+      <description>这是在 GitHub Pages 上发布的第一条测试数据。</description>
+      <pubDate>Sat, 18 Apr 2026 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">item-gh-001</guid>
+    </item>
+  </channel>
+</rss>
