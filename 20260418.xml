@@ -3,12 +3,12 @@
   <channel>
     <title>GitHub Pages 实时 RSS 测试</title>
     <!-- 替换为你的真实 GitHub 用户名 -->
-    <link>https://github.com/liuyuqiangchn/rss_test/20260418.xml</link>
+    <link>https://liuyuqiangchn.github.io/rss_test/20260418.xml</link>
     <description>测试通过 GitHub Pages 与 Google Hub 的无缝对接。</description>
     
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <!-- 替换为你的真实 GitHub 用户名 -->
-    <atom:link rel="self" href="https://github.com/liuyuqiangchn/rss_test/20260418.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="https://liuyuqiangchn.github.io/rss_test/20260418.xml" type="application/rss+xml"/>
     
     <lastBuildDate>Sat, 18 Apr 2026 23:00:00 GMT</lastBuildDate>
 
