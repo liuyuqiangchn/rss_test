@@ -2,15 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub 实时推送终极测试</title>
-    <!-- 注意这里全部为你改成了 rss_test -->
     <link>https://liuyuqiangchn.github.io/rss_test/20260419.xml</link>
     <description>排除了下划线匹配错误后的全新测试。</description>
     
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <!-- 核心：这个 self 地址必须和浏览器访问地址 100% 一致 -->
     <atom:link rel="self" href="https://liuyuqiangchn.github.io/rss_test/20260419.xml" type="application/rss+xml"/>
     
-    <lastBuildDate>Sun, 19 Apr 2026 01:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 01:10:00 GMT</lastBuildDate>
+
+    <!-- 推送测试文章 -->
+    <item>
+      <title>第二条数据：完美收官！</title>
+      <link>http://example.com/final-2</link>
+      <description>如果你看到了这条消息，说明实时推送集成完美成功！</description>
+      <pubDate>Sun, 19 Apr 2026 01:10:00 GMT</pubDate>
+      <guid isPermaLink="false">item-final-002</guid>
+    </item>
 
     <item>
       <title>第一条数据：地址精准匹配</title>
